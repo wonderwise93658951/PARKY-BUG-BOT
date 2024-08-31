@@ -33,7 +33,7 @@ global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = '.'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
