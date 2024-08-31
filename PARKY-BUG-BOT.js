@@ -2287,7 +2287,7 @@ break
             case 'allmenu':
                 let xeonmenuoh = `╭═══ ${botname} ═══⊷
 ┃❃╭──────────────
-┃❃│ Prefix : [ ]
+┃❃│ Prefix : ${prefa}
 ┃❃│ User :  ${pushname}
 ┃❃│ Time : ${xeonytimewisher}
 ┃❃│ Day : Regarde sur la montre
