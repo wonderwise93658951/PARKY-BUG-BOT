@@ -2289,9 +2289,9 @@ break
 ┃❃╭──────────────
 ┃❃│ Prefix : ${prefa}
 ┃❃│ User :  ${pushname}
-┃❃│ Time : ${xeonytimewisher}
-┃❃│ Day : Regarde sur la montre
-┃❃│ Date : le calendrier est là !
+┃❃│ gretting : ${xeonytimewisher}
+┃❃│ Time : ${time2}
+┃❃│ Date : ${xdate}
 ┃❃│ Version : 1.0
 ┃❃│ Plugins : 250
 ┃❃│ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
