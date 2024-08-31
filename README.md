@@ -143,4 +143,4 @@ npm i -g forever && forever index.js && forever save && forever logs
 
  ## Remerciements
 
-Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=50)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **PARKY-BUG-BOT**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
+Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **PARKY-BUG-BOT**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
